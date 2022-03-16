@@ -8,6 +8,7 @@ public class Sample {
 	private void print() {
 		System.out.println("Test1");
 		System.out.println("modified from master");
+		System.out.println("new line created from mustaq");
 	}
 
 }
