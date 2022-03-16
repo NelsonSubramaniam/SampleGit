@@ -7,6 +7,7 @@ public class Sample {
 	@Test
 	private void print() {
 		System.out.println("Test1");
+		System.out.println("modified from master");
 	}
 
 }
